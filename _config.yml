@@ -8,8 +8,8 @@ baseurl:
 site_heading: >
     foo <span class="faded">'s blog</span>
 
-email: your@email.com
-author: yourname
+email: gomddungg@naver.com
+author: gomddungg
 # This description will show up in google search results
 # (for index page) etc.
 description: >
@@ -43,9 +43,8 @@ about_stub: >
 
 about_footer: true
 
-twitter_username: AnkitSultana
-github_username: yourgithub
-facebook_id: yourusername
+github_username: gomddungg
+facebook_id: gomddungg
 
 favicon: true
 favicon_location: "images/favicon.ico"
