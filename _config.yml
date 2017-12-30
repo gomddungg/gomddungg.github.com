@@ -6,7 +6,7 @@ baseurl:
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    곰떵이 <span class="faded">의 블로그</span>
 
 email: gomddungg@naver.com
 author: gomddungg
