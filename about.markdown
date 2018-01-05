@@ -1,15 +1,15 @@
 ---
 layout: about
 title: accent
-author: Ankit Sultana
+author: gomddungg
 permalink: /about
 ---
 
-Hi! My name is yourname!
+Hi! My name is gomddungg!
 
-> One shalt not speak shakespearean, or brocolli McDonalds
+> 안녕하세요! 곰떵이의 블로그입니다
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+2018년에 개설한 블로그입니다. 깃허브를 사용하여 만들었습니다. Python, java, C++, C# 등등 제가 공부한 것들을 게시할 생각입니다.
+잘 부탁드려요~ 
+                                                    Thank you
+                                                    귀염곰팅ol
