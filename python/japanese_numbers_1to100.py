@@ -107,8 +107,8 @@ while True:
     if number > 100:
         print('1부터 100까지만 입력해주세요')
     elif number in number_dict:
-        japanish = number_dict[number]
-        print(japanish)
+        japanese = number_dict[number]
+        print(japanese)
     elif number == -1:
         print('프로그램을 종료합니다')
         break
