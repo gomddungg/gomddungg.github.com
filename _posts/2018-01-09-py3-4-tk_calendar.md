@@ -2,6 +2,7 @@
 title: "Py3-4-tk_calendar"
 ---
 달력을 나타내어주는 프로그램.
+
 {% highlight python %}
 from datetime import date
 from tkinter import
@@ -15,6 +16,7 @@ w.pack()
 
 mainloop()  #tkinter의 이벤트 루프를 시작합니다.
 {% endhighlight %}
+
 ![Py3-tk_calendar](images/tk_calendar.PNG)
 이렇게 당일의 달력이 나오게 된다.
 
