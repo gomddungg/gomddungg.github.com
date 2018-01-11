@@ -4,7 +4,7 @@ title: "Py3-4-tk_calendar"
 달력을 나타내어주는 프로그램.
 {% highlight python %}
 from datetime import date
-from tkinter import *
+from tkinter import
 import calendar
 
 t = date.today()
