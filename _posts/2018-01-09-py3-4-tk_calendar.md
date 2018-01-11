@@ -20,7 +20,7 @@ mainloop()  #tkinter의 이벤트 루프를 시작합니다.
 ![Py3-tk_calendar](images/tk_calendar.PNG)
 이렇게 당일의 달력이 나오게 된다.
 
-##오늘의 한마디
+## 오늘의 한마디
 
 **(`수많은 모듈의 사용법을 모두 암기할 필요는 없다. `)**
 
