@@ -17,7 +17,8 @@ w.pack()
 mainloop()  #tkinter의 이벤트 루프를 시작합니다.
 {% endhighlight %}
 
-			![Py3-tk_calendar](images/tk_calendar.PNG)
+![Py3-tk_calendar](images/tk_calendar.PNG)
+
 이렇게 당일의 달력이 나오게 된다.
 
 ## 오늘의 한마디
