@@ -9,15 +9,18 @@ Pillow를 다운받았다.
 
 ![py3-5-chick_Image](images/chickImage/chick.jpg)
 
+
 **크기조절/각도조절/명암조절(전체)/명암조절(부분)**
 
 ![py3-5-chick_Image](images/chickImage/조그만 병아리.jpg)
 ![py3-5-chick_Image](images/chickImage/기우뚱한 병아리.jpg)    
 ![py3-5-chick_Image](images/chickImage/볕에 나온 병아리.jpg)
-![py3-5-chick_Image](images/chickImage/100x100/자체발광 병아리.jpg)
+![py3-5-chick_Image](images/chickImage/자체발광 병아리.jpg)
+
 
 **코드**
 ![py3-5-chick_Image](images/chickImage/chickImage source.PNG)
+
 
 
 ## 먹을게 너무 많다..
