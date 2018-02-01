@@ -2,12 +2,20 @@
 title: "py3-8-vending_machine"
 ---
 사용자는 원하는 물건을 선택한뒤, 지불할 금액을 입력한다.
+
 자판기에 들어가 있는 지폐는 1000원권,500원권, 100원 권이며
+
 물건을 구입한뒤 각각 몇장의 거스름돈이 나오는지 출력한다.
+
 1000원권이 우선순위 0번이며, 거스름돈이 1500원이라면 1000원권 1장, 500원권 1장만이 출력되도록 한다.
+
 100원 미만의 돈은 버려지게 되며, 역시 출력 되게 한다.
 
 
+
+초기 정리 단계
+
+![py3-7-vending_machine](images/vending_machine/vending_memo.PNG)
 
 {% highlight python %}
 
@@ -66,6 +74,6 @@ change_pay(change)
 
 실행결과
 
-![py3-7-vending_machine](images/seqdiag/vending.PNG)
+![py3-7-vending_machine](images/vending_machine/vending.PNG)
 
 ## 끝!
