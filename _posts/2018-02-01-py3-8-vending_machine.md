@@ -76,4 +76,4 @@ change_pay(change)
 
 ![py3-7-vending_machine](images/vending_machine/vending.PNG)
 
-## 끝!
+## 끝!!
