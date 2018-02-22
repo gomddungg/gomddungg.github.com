@@ -2,13 +2,20 @@
 title: "py3-9-japanese_numbers_0to9999"
 ---
 알바하고 설이다 뭐다 바빠서 공부를 통 못했다ㅠ 
+
 예전 1부터 100까지 숫자를 일본어로 번역했던 프로그램을 조금 수정해보았다
 
 2018-01-09-py3-3-japanese_numbers_1to100 의 확장판이다. 
 
 초기 정리 단계
 
-![py3-9-japanese_numbers_0to9999](images/japanese_number/jap.PNG)
+**캡쳐를 잘못해서 삭제됨**
+
+| 함수1
+| 수를 입력받는다
+| 함수2
+| 각각 몫을 구하고 나머지를구하고 나머지의 몫을 구하고.. 반복
+
 
 {% highlight python %}
 
