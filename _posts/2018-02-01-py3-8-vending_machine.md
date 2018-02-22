@@ -15,7 +15,7 @@ title: "py3-8-vending_machine"
 
 초기 정리 단계
 
-![py3-7-vending_machine](images/vending_machine/vending_memo.PNG)
+![py3-8-vending_machine](images/vending_machine/vending_memo.PNG)
 
 {% highlight python %}
 
