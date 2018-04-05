@@ -53,4 +53,4 @@ GRANT ALL ON db1.* TO freelec@localhost;
 
 데이터베이스가 좀 재밌다고 할까.. 좀 더 공부해 볼 필요가 있겠다!
 
-<div class="fb-comments" data-href="https://gomddungg.github.io/" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://gomddungg.github.io/" data-width="640" data-numposts="5"></div>

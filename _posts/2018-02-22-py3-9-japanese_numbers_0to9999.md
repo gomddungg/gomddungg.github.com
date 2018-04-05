@@ -77,3 +77,5 @@ zerosen zerohyaku라는등의 의도하지 않은 상황이 발생한다.
 
 좀 더 공부하여 버전3을 내놓겠다..
 공부좀 하자 ㅜㅜ
+
+<div class="fb-comments" data-href="https://gomddungg.github.io/" data-width="640" data-numposts="5"></div>
