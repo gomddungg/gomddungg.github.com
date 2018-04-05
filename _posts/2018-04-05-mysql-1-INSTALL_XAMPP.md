@@ -45,9 +45,9 @@ GRANT ALL ON db1.* TO freelec@localhost;
 
 ![mysql-1-INSTALL_XAMPP](images/mysql/practice.PNG)
 
-### 잡설
-
 이상이 MySQL의 기본적인 실행 방법이다.
+
+### 잡설
 
 요즘 MT다 뭐다 바쁘기도하고, 사실은 컴퓨터에 흥미를 잃어 공부하기를 좀 꺼려했었는데 MySQL을 보는 순간 달라졌다.
 
