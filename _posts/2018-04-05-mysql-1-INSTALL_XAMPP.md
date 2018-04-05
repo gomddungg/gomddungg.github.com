@@ -52,3 +52,5 @@ GRANT ALL ON db1.* TO freelec@localhost;
 요즘 MT다 뭐다 바쁘기도하고, 사실은 컴퓨터에 흥미를 잃어 공부하기를 좀 꺼려했었는데 MySQL을 보는 순간 달라졌다.
 
 데이터베이스가 좀 재밌다고 할까.. 좀 더 공부해 볼 필요가 있겠다!
+
+<div class="fb-comments" data-href="https://gomddungg.github.io/" data-numposts="5"></div>
