@@ -37,7 +37,7 @@ mysql -u 사용자_이름 -p까지만 쓰고 다음줄에서 비밀번호를 입
 2. 그 사용자에 db1이란 데이터베이스에 있는 모든 테이블의 모든 권한을 부여 한다
 
 {% highlight PHP %}
-CREATE USER freelac@localhost IDENTIDIED BY '1234';
+CREATE USER freelec@localhost IDENTIDIED BY '1234';
 GRANT ALL ON db1.* TO freelec@localhost;
 {% endhighlight %}
 
