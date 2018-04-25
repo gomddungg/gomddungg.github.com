@@ -1,6 +1,7 @@
 ---
 title: "Mysql-1-INSTALL_XAMPP"
 ---
+<style>
 ### Installation
 
 MYSQL이란 RDBMS(관계형 데이터베이스 MANAGEMENT SYSTEM)이다. 동작이 빠르고, Oracle은 상용 데이터베이스인데 MYSQL은 오픈소스 RDBMS이다!
@@ -53,6 +54,6 @@ GRANT ALL ON db1.* TO freelec@localhost;
 
 데이터베이스가 좀 재밌다고 할까.. 좀 더 공부해 볼 필요가 있겠다!
 
-<style>
+
 @import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script&subset=korean');
 </style>
