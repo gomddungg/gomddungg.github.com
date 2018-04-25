@@ -1,5 +1,8 @@
 ---
-title: "mysql-1-INSTALL_XAMPP"
+title: "Mysql-1-INSTALL_XAMPP"
+<style>
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script&subset=korean');
+</style>
 ---
 ### Installation
 

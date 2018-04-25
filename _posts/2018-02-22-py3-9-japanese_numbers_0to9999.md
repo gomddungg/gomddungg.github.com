@@ -1,5 +1,5 @@
 ---
-title: "py3-9-japanese_numbers_0to9999"
+title: "Py3-9-japanese_numbers_0to9999"
 ---
 알바하고 설이다 뭐다 바빠서 공부를 통 못했다ㅠ 
 

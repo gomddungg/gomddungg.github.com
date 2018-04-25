@@ -1,5 +1,5 @@
 ---
-title: "py3-8-vending_machine"
+title: "Py3-8-vending_machine"
 ---
 사용자는 원하는 물건을 선택한뒤, 지불할 금액을 입력한다.
 

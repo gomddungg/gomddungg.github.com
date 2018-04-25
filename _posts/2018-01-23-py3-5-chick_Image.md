@@ -1,5 +1,5 @@
 ---
-title: "py3-5-chick_Image"
+title: "Py3-5-chick_Image"
 ---
 pip과 easy_install 패키지를 설치하여(파이썬 패키지들을 손쉽게 설치할 수 있도록 도와주는 setuptools) 
 Pillow를 다운받았다.
