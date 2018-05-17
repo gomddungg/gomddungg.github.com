@@ -8,11 +8,11 @@ title: "Algorithm-2-find_same_name"
 
 **규칙**
 
-1. 이번에 비교할 이름을 뽑은 다음에는 뽑은이름보다 순서상 뒤에 있는 이름하고만 비교하면 된다.
+* 이번에 비교할 이름을 뽑은 다음에는 뽑은이름보다 순서상 뒤에 있는 이름하고만 비교하면 된다.
 
-2. 리스트의 마지막 이름을 기준으로는 비교하지 말것.
+* 리스트의 마지막 이름을 기준으로는 비교하지 말것.
 
-3. 같은 이름을 찾으면 결과값을 '집합'에 추가.
+* 같은 이름을 찾으면 결과값을 '집합'에 추가.
 
 ### 코딩 전 알고리즘 분석
 
@@ -20,29 +20,32 @@ title: "Algorithm-2-find_same_name"
 
 ### 코드
 {% highlight python %}
-def find_max(list_number):
-    
+def find_same_name(list_number):
+
     list = []
-    
-    for x in range(0,list_number):
-        num = int(input('%d번째 리스트의 숫자: '%(x)))
-        list.append(num)
-    
-    max = list[0]
-    for x in list:
-        if(max < x):
-            max = x
-    print('리스트 = ',list)    
-    print('최댓값은', max,'입니다')
-    
-    return max
+    same_name = set()
+
+    for x in range(0, list_number):
+        username = str(input('이름을 입력해 주세요: '))
+        list.append(username)
+
+    for x in range(0, list_number - 1):
+        for y in range(x + 1, list_number):
+            if(list[x] == list[y]):
+                same_name.add(list[x])
+                break;
+
+    return same_name
+
+
 
 list_number = int(input('리스트의 길이를 입력하세요: '))
-find_max(list_number)
+print(find_same_name(list_number))
 
 {% endhighlight %}
 
-# n명 중 두 명을 뽑아 짝을 지어 출력하는 알고리즘
+# n명 중 두 명을 뽑아 짝을 지어 
+# 출력하는 알고리즘
 
 ### 코드
 {% highlight python %}
@@ -61,8 +64,6 @@ def mating_name(list_number):
             val += 1
     print('총 경우의 수: %d' %(val))
 
-
-
 list_number = int(input('리스트의 길이를 입력하세요: '))
 mating_name(list_number)
 
@@ -74,9 +75,9 @@ mating_name(list_number)
 
 # 오늘 배운것
 
-동명이인을 찾는 알고리즘을 짤 때, 오랫동안 고민해봐도 답이 잘 안나왔다.
+동명이인을 찾는 알고리즘을 짤 때, 오랫동안 고민해봐도 답이 잘 나오지 않았다.
 
-그래서 한글로라도 한번 대충 짜보고 해보자! 하고 걱정반 기대반으로 짜보았더니
+그래서 한글로라도 한번 대충 짜보자! 하고 걱정반 기대반으로 짜보았더니
 
 금방 짜버렸다..
 
