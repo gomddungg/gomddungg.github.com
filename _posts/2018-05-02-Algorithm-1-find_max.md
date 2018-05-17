@@ -1,5 +1,5 @@
 ---
-title: "Py3-10-Algorithm_1"
+title: "Algorithm-1-find_max"
 ---
 
 5월2일 모두의 알고리즘 with 파이썬
