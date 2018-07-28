@@ -8,9 +8,7 @@ title: "WEB1-1-first_web"
 
 **설명**
 
-전세계 최초의 웹이다.
-
-링크: http://info.cern.ch
+<a href="http://info.cern.ch" target="_blank" title="FirstWeb">전세계 최초의 웹</a>이다.
 
 보는 순간 소름이 돋았다...덜덜
 
