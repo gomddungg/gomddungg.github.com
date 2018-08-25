@@ -17,8 +17,8 @@ title: "Public data contest - JNU daegu predict service"
   * 통합대기 환경지수인 CAI(Comprehensive Air-quality Index) 지수를 계산하여 대구 대기 상태의 전체적인 수치도 매시간 서버에 업로드된다.
 
   * 머신러닝으로 예측한 데이터는 모두 DB(데이터베이스, DataBase)에 저장되고 저장된 데이터는 전부 웹 페이지 안에서 그래프로 시각화하여 서비스한다.
-
-  * 링크: <a href="http://jnudaegu.oa.to" target="_blank" title="JNU Predict">전남대 대구 대기질 예보</a>
+  
+  * 링크: <a href="http://jnudaegu.oa.to/" target="_blank" title="JNU Predict">전남대 대구 대기질 예보</a>
   (AWS과금문제 때문에 ec2서버를 종료하거나, 크롤링 서버가 꺼지면 웹페이지가 동작하지 않을 수 있습니다.)
 
 ## 기술 구현 방법
