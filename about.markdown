@@ -1,6 +1,6 @@
 ---
 layout: about
-title: accent
+title: gomddungg
 author: gomddungg
 permalink: /about
 ---
