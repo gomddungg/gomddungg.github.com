@@ -1,93 +1,16 @@
-# User Settings | Edit there as per required
+title: RedCup
+description: "Redcup: An awesome Theme for Jekyll"
 
-title: accent
-url: "http://ankitsultana.com"
-baseurl: 
+url: http://iamnii.github.io/redcup/
+port: 3000
+highlighter: pygments
 
-# This will show up at the top of index page
-site_heading: >
-    곰떵이 <span class="faded">의 블로그</span>
+permalink: /:year/:month/:day/:title.html
+markdown: redcarpet
 
-email: gomddungg@naver.com
-author: gomddungg
-# This description will show up in google search results
-# (for index page) etc.
-description: >
-    accent is, as Trump would put it, the best
+google_analytics: #
 
-# This will what will show against &copy; in the footer
-copyright: accent
-# Toggle your short bio, which will displayed on your index page
-# Just toggle it and run jekyll again to see
-intro: false         # Tip: Remove the span from site_heading if intro is set to true
-# This will be displayed in your intro
-short_bio: >
-    Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
-    theme is that you can change the accent color. Refer the
-    <a class="underline different-highlight" href="http://ankitsultana.com/accent/documentation.html">
-        Documentation
-    </a>
-    to know how.
-
-permalink: /:title.html
-
-# Comments are powered by disqus
-comments: true
-
-# keep about_stub roughly 12 words long for best results
-# This will show up at the bottom of each post
-# Note that about_footer should be true if you want
-# to see author information at the bottom of each post
-about_stub: >
-    Everything is gonna be Okay.
-
-about_footer: true
-
-github_username: gomddungg
-facebook_id: gomddungg
-
-favicon: true
-favicon_location: "images/favicon.ico"
-
-profile_picture: images/Profile.PNG
-paginate: 8
-paginate_path: "/page/:num"
-tracking_id: UA-69243698-7 # GA Tracking ID
-
-# Social Stuff | open graph and twitter cards
-og_image: "images/accent.png" # This will show in facebook thumbnails
-twitter_image: "http://ankitsultana.com/images/accent.png?1234" # This will show in twitter cards
-
-####################################
-####################################
-####################################
-### Build Settings | Don't Touch ###
-####################################
-####################################
-####################################
-
-markdown: kramdown
-
-plugins:
-    - jekyll-paginate
-
-sass:
-    style: compressed
-    sass_dir: _sass
-
-# Scopes
-defaults:
-    -
-        scope:
-            path:   ""
-            type:   "pages"
-        values:
-            layout: "page"
-    -
-        scope:
-            path:   ""
-            type:   "posts"
-        values:
-            layout: "post"
-
-exclude: [vendor] # For travis ci
+owner:
+  name: Adjetey Sowah
+  disqus_shortname: iamnii
+  twitter: __iamnii
